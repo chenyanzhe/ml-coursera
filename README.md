@@ -1,6 +1,6 @@
 # Machine Learning Assignments
 
-This is my self-study solutions to the programming assignements of Machine Learning from [Coursera](https://www.coursera.org/learn/machine-learning).
+This is my self-study solutions to the programming assignments of Machine Learning from [Coursera](https://www.coursera.org/learn/machine-learning).
 
 ## Assignment 1: Linear Regression
 
